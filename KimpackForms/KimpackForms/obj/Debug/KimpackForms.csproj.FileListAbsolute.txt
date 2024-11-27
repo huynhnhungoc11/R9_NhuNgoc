@@ -1,0 +1,17 @@
+D:\CODE\KimpackForms\KimpackForms\bin\Debug\KimpackForms.exe.config
+D:\CODE\KimpackForms\KimpackForms\bin\Debug\KimpackForms.exe
+D:\CODE\KimpackForms\KimpackForms\bin\Debug\KimpackForms.pdb
+D:\CODE\KimpackForms\KimpackForms\obj\Debug\KimpackForms.csproj.AssemblyReference.cache
+D:\CODE\KimpackForms\KimpackForms\obj\Debug\KimpackForms.Properties.Resources.resources
+D:\CODE\KimpackForms\KimpackForms\obj\Debug\KimpackForms.csproj.GenerateResource.cache
+D:\CODE\KimpackForms\KimpackForms\obj\Debug\KimpackForms.csproj.CoreCompileInputs.cache
+D:\CODE\KimpackForms\KimpackForms\obj\Debug\KimpackForms.exe
+D:\CODE\KimpackForms\KimpackForms\obj\Debug\KimpackForms.pdb
+D:\CODE\KimpackForms\KimpackForms\obj\Debug\KimpackForms.frmLogin.resources
+D:\CODE\KimpackForms\KimpackForms\bin\Debug\Guna.UI2.dll
+D:\CODE\KimpackForms\KimpackForms\obj\Debug\KimpackF.23D537F4.Up2Date
+D:\CODE\KimpackForms\KimpackForms\obj\Debug\KimpackForms.frmKhachHang.resources
+D:\CODE\KimpackForms\KimpackForms\obj\Debug\KimpackForms.frmKhachHang_2.resources
+D:\GITT\KimpackForms\KimpackForms\obj\Debug\KimpackForms.csproj.AssemblyReference.cache
+D:\GITT\KimpackForms\KimpackForms\obj\Debug\KimpackForms.exe
+D:\GITT\KimpackForms\KimpackForms\obj\Debug\KimpackForms.pdb
